@@ -1,0 +1,1729 @@
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 523
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 130
+
+2024-04-19 10:01:26[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 10:01:25[UTC -5] [ip] 127.0.0.1 [location] Admin|listar_pendientes_of [text] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of off inner join empresa e on off.id_empresa=e.id_empresa inner join user u on ' at line 1
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 11:39:09[UTC -5] [ip] 127.0.0.1 [location] Admin|listar_pendientes_of [text] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of off inner join empresa e on off.id_empresa=e.id_empresa inner join user u on ' at line 1
+2024-04-19 11:47:12[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_reportes_generados.php: 129[MESSAGGE]Undefined variable $datos
+
+2024-04-19 11:47:12[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_reportes_generados.php: 265[MESSAGGE]Undefined variable $id_unidad
+
+2024-04-19 11:47:12[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_vehiculo_maquinaria_checklist.php: 61[MESSAGGE]Undefined variable $datos
+
+2024-04-19 11:47:12[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_vehiculo_maquinaria_checklist.php: 218[MESSAGGE]Undefined variable $id_unidad
+
+2024-04-19 11:47:29[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\ListaVerificacionController.php: 211[MESSAGGE]Undefined array key "buscar_valor"
+
+2024-04-19 11:47:33[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\ListaVerificacionController.php: 211[MESSAGGE]Undefined array key "buscar_valor"
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:48:11[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:49:04[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 11:53:51[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_vehiculo_maquinaria_checklist.php: 130[MESSAGGE]Undefined property: stdClass::$vehiculo_foto
+
+2024-04-19 11:53:51[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_vehiculo_maquinaria_checklist.php: 185[MESSAGGE]Undefined array key "tipo"
+
+2024-04-19 11:53:51[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_vehiculo_maquinaria_checklist.php: 185[MESSAGGE]Undefined array key "clase"
+
+2024-04-19 11:53:51[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_vehiculo_maquinaria_checklist.php: 185[MESSAGGE]Undefined array key "cliente_valor"
+
+2024-04-19 11:55:23[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\ListaVerificacionController.php: 211[MESSAGGE]Undefined array key "buscar_valor"
+
+2024-04-19 11:57:56[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\models\Vehiculo.php: 1714[MESSAGGE]Undefined property: Vehiculo::$licencia
+
+2024-04-19 11:58:05[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_reportes_generados.php: 129[MESSAGGE]Undefined variable $datos
+
+2024-04-19 11:58:05[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_reportes_generados.php: 265[MESSAGGE]Undefined variable $id_unidad
+
+2024-04-19 12:00:36[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\gestionmantenimiento\mantenimiento_correctivo.php: 1283[MESSAGGE]Undefined variable $otm_numero_
+
+2024-04-19 12:00:36[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\gestionmantenimiento\mantenimiento_correctivo.php: 1287[MESSAGGE]Undefined variable $otm_numero_
+
+2024-04-19 12:00:41[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\ListaVerificacionController.php: 211[MESSAGGE]Undefined array key "buscar_valor"
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:09[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 12:01:32[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\MantenimientoCorrectivoController.php: 2051[MESSAGGE]Undefined variable $datos_app
+
+2024-04-19 12:06:32[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\ListaVerificacionController.php: 211[MESSAGGE]Undefined array key "buscar_valor"
+
+2024-04-19 12:08:43[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\models\Vehiculo.php: 1714[MESSAGGE]Undefined property: Vehiculo::$licencia
+
+2024-04-19 12:13:54[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_reportes_generados.php: 129[MESSAGGE]Undefined variable $datos
+
+2024-04-19 12:13:54[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\view\vehiculo\listar_reportes_generados.php: 265[MESSAGGE]Undefined variable $id_unidad
+
+2024-04-19 13:29:32[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\ListaVerificacionController.php: 211[MESSAGGE]Undefined array key "buscar_valor"
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Undefined array key 509
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 78[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Undefined array key 137
+
+2024-04-19 13:51:57[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\laragon\www\brunner\app\controllers\AdminController.php: 86[MESSAGGE]Attempt to read property "id_sede" on null
+
+2024-04-19 13:51:56[UTC -5] [ip] 127.0.0.1 [location] Admin|listar_pendientes_of [text] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of off inner join empresa e on off.id_empresa=e.id_empresa inner join user u on ' at line 1
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
+2024-04-19 13:53:52[UTC -5] [ip] 127.0.0.1 [location] Excepcion No Manejada [text] [LEVEL]: 8192 IN C:\laragon\www\brunner\app\view\vehiculo\ver_detalle_checklist.php: 390[MESSAGGE]preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+
